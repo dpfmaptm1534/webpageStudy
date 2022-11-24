@@ -1,0 +1,28 @@
+edit.jsp에 b_title, b_content에 값을 출력
+edit_ok.jsp 를 만들어 글 수정하기 -> 해당글에 대한 view.jsp
+
+과제1. 아래 로페이지를 서블릿으로작성
+edit_ok.jsp
+delete_ok.jsp
+re_write_ok.jsp
+re_del_ok.jsp
+
+2. list.jsp에 글의 총 갯수를 출력
+3. 3일 이내의 글 제목에 new 아이콘 표시t
+
+tb_like
+번호 글번호 아이디
+
+
+
+
+
+
+
+1 리스트 번호 순서대로 찍기
+2. 조회수 한유저당 한번만
+	- 테이블 별도로 만들기
+	
+3. 깃허브에 업로드
+   
+
